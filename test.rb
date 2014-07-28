@@ -30,4 +30,4 @@ seniors(all_students).each do |student|
 	puts student
 end
 
-puts "test"
+puts "test back"
